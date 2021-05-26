@@ -186,6 +186,9 @@ PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service.xiaomi_olive \
     android.hardware.biometrics.fingerprint@2.2
 
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/permissions/blank.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/blank.xml
+
 # FM
 PRODUCT_PACKAGES += \
     FMRadio \
