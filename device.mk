@@ -140,6 +140,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.camera.device@1.0 \
     vendor.qti.hardware.camera.device@1.0.vendor
 
+PRODUCT_PACKAGES += \
+    app.grapheneos.camera
+
 # Codec2 modules
 PRODUCT_PACKAGES += \
     com.android.media.swcodec \
