@@ -4292,6 +4292,9 @@ vendor/lib/vendor.qti.hardware.data.connection@1.1.so|d228d695cef53c6d1470c2d5ec
 vendor/lib64/vendor.qti.hardware.data.connection@1.0.so|a8bc796e52781ab19125143883fb15edd11f8741
 vendor/lib64/vendor.qti.hardware.data.connection@1.1.so|c809a4e36a9d75a09c341bb8f343be6a5a3b368f
 
+# Consumer IR - from olive
+vendor/lib64/hw/consumerir.default.so
+
 # Dirac
 vendor/etc/diracmobile.config
 vendor/lib/soundfx/libdirac.so
