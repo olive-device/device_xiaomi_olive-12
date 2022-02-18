@@ -1,30 +1,23 @@
-The Redmi 8A Dual (codenamed _"olivewood"_) are low-end mid-range smartphones from Xiaomi announced and released in May 2020.
+# Device Tree for Xiaomi Redmi 8 (olive)
 
-## Device specifications
+## Spec Sheet
 
-Basic | Spec Sheet
- -------:|:-------------------------
- SoC | Qualcomm MSM8937 Snapdragon 439
- CPU | Octa core (2.0 GHz)
- GPU | Adreno 505
- Memory | 2/3/4 GB RAM
- Shipped Android Version | 9.0
- Storage | 16/32/64 GB
- MicroSD | Up to 512 GB (dedicated slot)
- Battery | Non-removable Li-Polymer 5000 mAh battery
- Dimensions | 146.3 x 70.4 x 9.6 mm
- Display | 720 x 1520 pixels, 18:9 ratio, 5.45 inches (~295 ppi density)
- Rear camera | 12 MP, f/2.2, 1.25 μm , PDAF
- Front camera | 5 MP, f/2.2 
- 
-## Device picture
+| Feature                 | Specification                     |
+| :---------------------- | :-------------------------------- |
+| CPU                     | Octa-core 2.0 GHz Cortex-A53      |
+| Chipset                 | Qualcomm MSM8937 Snapdragon 439   |
+| GPU                     | Adreno 505                        |
+| Memory                  | 2/3/4 GB                          |
+| Shipped Android Version | 9.0.0                             |
+| Storage                 | 32/64 GB                          |
+| MicroSD                 | Up to 512 GB                      |
+| Battery                 | 5000 mAh (non-removable)          |
+| Dimensions              | 156.5 x 75.4 x 9.4 mm             |
+| Display                 | 720x1520 pixels, 6.22 (~270 PPI)  |
+| Rear Camera             | 12 MP, 2 MP depth, LED flash      |
+| Front Camera            | 8 MP                              |
+| Release Date            | October 2019                      |
 
-![Xiaomi Redmi 8A Dual](https://i01.appmifile.com/webfile/globalimg/in/cms/525A562C-D23B-89F3-4A0A-4C97D33AC75F.jpg)
+## Device Picture
 
-```
-#
-# Copyright (C) 2017-2021 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+![Redmi 8](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-8-2.jpg "Redmi 8")

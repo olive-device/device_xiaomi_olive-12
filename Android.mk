@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-ifeq ($(TARGET_DEVICE),olivewood)
+ifeq ($(TARGET_DEVICE),olive)
 
 include $(call all-subdir-makefiles)
 

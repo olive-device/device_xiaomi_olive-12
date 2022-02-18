@@ -7,10 +7,10 @@
 cc_binary {
     relative_install_path: "hw",
     defaults: ["hidl_defaults"],
-    name: "android.hardware.light@2.0-service.xiaomi_olivewood",
+    name: "android.hardware.light@2.0-service.xiaomi_olive",
     proprietary: true,
-    init_rc: ["android.hardware.light@2.0-service.xiaomi_olivewood.rc"],
-    vintf_fragments: ["android.hardware.light@2.0-service.xiaomi_olivewood.xml"],
+    init_rc: ["android.hardware.light@2.0-service.xiaomi_olive.rc"],
+    vintf_fragments: ["android.hardware.light@2.0-service.xiaomi_olive.xml"],
     srcs: ["service.cpp", "Light.cpp"],
     shared_libs: [
         "libhardware",

@@ -2,8 +2,8 @@
 /system/bin/chargeonlymode                      u:object_r:charger_exec:s0
 
 # HALs
-/(vendor|system/vendor)/bin/hw/android\.hardware\.light@2\.0-service\.xiaomi_olivewood                      u:object_r:hal_light_default_exec:s0
-/(vendor|system/vendor)/bin/hw/android\.hardware\.usb@1\.0-service\.olivewood       u:object_r:hal_usb_default_exec:s0
+/(vendor|system/vendor)/bin/hw/android\.hardware\.light@2\.0-service\.xiaomi_olive                      u:object_r:hal_light_default_exec:s0
+/(vendor|system/vendor)/bin/hw/android\.hardware\.usb@1\.0-service\.olive       u:object_r:hal_usb_default_exec:s0
 
 # I/O
 # This node is already labelled by QCOM but Lineage overrides it with sysfs_io_sched_tunable label

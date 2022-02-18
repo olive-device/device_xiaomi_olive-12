@@ -1,14 +1,12 @@
 [
   {
-    "repository" : "vendor_xiaomi_olivewood",
-    "target_path": "vendor/xiaomi/olivewood",
-    "remote"     : "pixel-devices-blobs",
+    "repository" : "vendor_xiaomi_olive",
+    "target_path": "vendor/xiaomi/olive",
     "branch"     : "twelve"
   },
   {
-    "repository" : "kernel_xiaomi_olivewood",
-    "target_path": "kernel/xiaomi/olivewood",
-    "remote"     : "pixel-devices",
+    "repository" : "kernel_xiaomi_olive",
+    "target_path": "kernel/xiaomi/olive",
     "branch"     : "twelve"
   }
 ]
